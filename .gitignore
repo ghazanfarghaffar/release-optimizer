@@ -7,6 +7,7 @@
 __pycache__/
 node_modules/
 target/
+venv/
 
 # Build logs & proof
 proof/*.log
